@@ -1,0 +1,50 @@
+#content h1{
+	
+	font: italic bold 2em Georgia, serif;
+	color:#F8F8F8;
+}
+
+#content h2{
+	font-size: 1.5em;
+	font-family: Times New Roman;
+	
+}
+
+#content p{
+	font: italic normal 15px Times New Roman;
+    color:#F8F8F8 ;
+     
+    
+}
+
+
+#content {
+	padding-left:20px;
+    width:875px;
+    background:transparent;
+
+}
+
+.textbox{
+	border: 1px solid #848484;
+	border-radius: 30px; 
+	
+}
+
+
+.textbox:hover { 
+    border: 1px solid #00FF00; 
+    
+    
+}
+
+span.blue{
+color:blue;
+
+}
+span.red{
+color:red;
+
+}
+
+	
